@@ -17,7 +17,7 @@ A little about me:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraMuniz&layout=compact&hide=Yacc)-->
 <hr>
 <p align="center">
-  <i>Let's chat ! You can find me on the socials bellow</i>
+  <i>Let's chat ! You can find me in the socials bellow</i>
 <p align="center">
     <a href="http://www.linkedin.com/in/isadora-rf-muniz" alt="Linkedin" target="_blank"> <img src="https://img.icons8.com/color/30/000000/linkedin.png" /></a>
     <a href="https://www.instagram.com/isadoraa_muniz" alt="Instagram" target="_blank"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" /></a>
