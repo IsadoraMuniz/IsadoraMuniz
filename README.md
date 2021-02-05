@@ -19,9 +19,9 @@ A little about me:
 <p align="center">
   <i>Let's chat ! You can find me on the socials bellow</i>
 <p align="center">
-    <a href="http://www.linkedin.com/in/isadora-rf-muniz" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-    <a href="https://www.instagram.com/isadoraa_muniz" alt="Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
-    <a href="https://www.facebook.com/isadora.rfmuniz/" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" /></a>
+    <a href="http://www.linkedin.com/in/isadora-rf-muniz" alt="Linkedin" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+    <a href="https://www.instagram.com/isadoraa_muniz" alt="Instagram" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
+    <a href="https://www.facebook.com/isadora.rfmuniz/" alt="Facebook" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" /></a>
 </p>
   
 </p>
