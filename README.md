@@ -9,7 +9,7 @@
 A little about me:
 
 - 📚 I’m currently learning Web Development tech's, like React, HTML, CSS and JavaScript
-- 🥰 Python is my favorite programming language, but lately Javascript is getting my atenttion
+- 🥰 Python is my favorite programming language, but lately JavaScript is getting my atenttion
 - ⚡ I want to learn more about Software Engineering, because one of my goals is to become a Fullstack developer
 - 💬 Ask me about anything, I'd love to help you
 
