@@ -20,7 +20,7 @@ A little about me:
 <p align="center">
   <i>Let's chat ! You can find me on the socials bellow</i>
 <p align="center">
-    <a href="http://www.linkedin.com/in/isadora-rf-muniz" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
+    <a href="http://www.linkedin.com/in/isadora-rf-muniz" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
     <a href="https://www.instagram.com/isadoraa_muniz" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
     <a href="https://www.facebook.com/isadora.rfmuniz/" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
 </p>
