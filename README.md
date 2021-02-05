@@ -1,7 +1,7 @@
 ### Hi! I'm Isadora, and welcome to my GitHub! Here you'll find some nice projects that I've been working on! 👋😊
 
 <!--
-**IsadoraMuniz/IsadoraMuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IsadoraMuniz/IsadoraMuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Computer Engineering student at [UNIFESP](https://www.unifesp.br/)
 
@@ -16,6 +16,6 @@ A little about me:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraMuniz&layout=compact)
 
--->
+
 
 
