@@ -14,8 +14,8 @@ A little about me:
 - 💬 Ask me about anything, I would love to help you
 - 📫 How to reach me: <a class="icon-linkedin social-button #0275b5" href="http://www.linkedin.com/in/isadora-rf-muniz"></a>
 
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraMuniz&layout=compact&hide=Yacc)
+<!--
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraMuniz&layout=compact&hide=Yacc)-->
 
 
 
