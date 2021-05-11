@@ -8,7 +8,7 @@
 
 A little about me:
 
-- 📚 I’m currently learning Web Development tech's, like React, HTML, CSS and JavaScript
+- 📚 I’m currently learning Web Development tech's, like Angular, HTML, CSS and JavaScript
 - 🥰 I love to learn a new programming language and Python is one of my favorite, but lately JavaScript is getting my atenttion
 - ⚡ I want to learn more about Software Engineering, because my goal is to become a Fullstack developer
 
