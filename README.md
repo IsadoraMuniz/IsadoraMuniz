@@ -3,10 +3,10 @@
 
 <!--
 **IsadoraMuniz/IsadoraMuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<ul>
- <li><i>Computer Engineering student at [UNIFESP](https://www.unifesp.br/)</i></li>
- <li><i>Software Engineering intern at [Varstation](https://www.varstation.com/)</i></li>
-</ul>
+
+<i> - Computer Engineering student at [UNIFESP](https://www.unifesp.br/)</i>
+<i><br> - Software Engineering intern at [Varstation](https://www.varstation.com/)</i>
+
   
 
 A little about me:
