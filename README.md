@@ -3,14 +3,16 @@
 
 <!--
 **IsadoraMuniz/IsadoraMuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
- <i>Computer Engineering student at [UNIFESP](https://www.unifesp.br/)</i>
+<ul>
+ <li><i>Computer Engineering student at [UNIFESP](https://www.unifesp.br/)</i></li>
+ <li><i>Software Engineering intern at [Varstation](https://www.varstation.com/)</i></li>
+</ul>
+  
 
 A little about me:
 
-- 📚 I’m currently learning Web Development tech's, like Angular, HTML, CSS and JavaScript
-- 🥰 I love to learn a new programming language and Python is one of my favorite, but lately JavaScript is getting my atenttion
-- ⚡ I want to learn more about Software Engineering, because my goal is to become a Fullstack developer
+- 📚 I’m currently learning Angular, HTML, CSS, JavaScript and Django
+- 🥰 I love to learn about software development
 
 <!--
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraMuniz&layout=compact&hide=Yacc)-->
