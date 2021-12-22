@@ -5,7 +5,7 @@
 **IsadoraMuniz/IsadoraMuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <i> - Computer Engineering student at [UNIFESP](https://www.unifesp.br/)</i>
-<i><br> - Software Engineering intern at [Itaú Unibanco]</i>
+<i><br> - Software Engineering intern at Itaú Unibanco </i>
 
   
 
