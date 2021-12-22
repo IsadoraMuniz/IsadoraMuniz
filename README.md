@@ -11,7 +11,7 @@
 
 A little about me:
 
-- 📚 I’m currently learning Angular, HTML, CSS, JavaScript and Django
+- 📚 I’m currently learning Angular, HTML, CSS, TypeScript and Java
 - 🥰 I love to learn about software development
 
 <!--
